@@ -28,12 +28,33 @@
       "jenisPaket":"Wisuda Pria P.Reguler",
       "namaAyah":"HENDRI TAN",
       "namaIbu":"A TJU",
-      "tanggalPengambilanIjazah":null,
-      "tanggalPengambilanFoto10Inch":null,
-      "tanggalPengambilanFlashDisk":null,
-      "tanggalPengambilanTranskrip":null,
-      "tanggalPengambilanFotoBersamaJurusan":null,
-      "tanggalPengambilanFotoPelantikanDanVideoAcaraWisuda":null
+       "tanggalPengambilan": [
+        {
+          "id" : 1,
+          "nama" : "Ijazah",
+          "tanggal" : "2020-08-22 00:00:00.000000"
+        },
+        {
+          "id": 2,
+          "nama": "Transkrip Akademik",
+          "tanggal": null
+        },
+        {
+          "id": 3,
+          "nama": "Kartu Alumni",
+          "tanggal": null
+        },
+        {
+          "id": 4,
+          "nama": "Sertifikat Apresiasi",
+          "tanggal": null
+        },
+        {
+          "id": 5,
+          "nama": "Legalisir Ijazah & Transkrip",
+          "tanggal": null
+        }
+      ]
     }
   },
   "mahasiswaFoto":{
