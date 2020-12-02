@@ -12,6 +12,7 @@
   "profile": {
     "name": "typicode"
   },
+  "mahasiswaIjazah":"mahasiswaIjazah":{"code":"200","description":"OK","result":{"nim":"131110097","nama":"Riken","jurusan":"Teknik Informatika","peminatan":"Komputasi Ilmiah","tanggalYudisium":{"date":"2020-02-12 00:00:00.000000","timezone_type":3,"timezone":"Asia\/Jakarta"},"jenisKelamin":"Pria","jenisPaket":"Wisuda Pria P.Reguler","namaAyah":"HENDRI TAN","namaIbu":"A TJU","tanggalPengambilanIjazah":null,"tanggalPengambilanFoto10Inch":null,"tanggalPengambilanFlashDisk":null,"tanggalPengambilanTranskrip":null,"tanggalPengambilanFotoBersamaJurusan":null,"tanggalPengambilanFotoPelantikanDanVideoAcaraWisuda":null}},
   "mahasiswaFoto":{
     "code":"200",
     "description":"OK",
